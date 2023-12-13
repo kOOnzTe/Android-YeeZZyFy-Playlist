@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">yeezzyfy</string>
+    <string name="playlist_name">YeeZZyFy Playlist</string>
+    <string name="app_desc">A Decent Playlist Application of Kanye West\'s Songs</string>
+    <string name="start_button">I miss the old Kanye, straight from the \'Go Kanye...</string>
+    <string name="close_button">Close</string>
+    <string name="back_button">Back</string>
+    <string name="exit_button">Exit</string>
+    <string name="quest">Question: What is the real name of "Kanye"?</string>
+    <string name="hint">C\'mon, you must know!</string>
+</resources>
